@@ -1,1 +1,1 @@
-A File in a merge branch.This is new branch. 
+A File in a master branch.
